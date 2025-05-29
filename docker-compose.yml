@@ -1,0 +1,9 @@
+services:
+  flutter-web:
+    image: inventory-web
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "2000:80"
+    restart: always
