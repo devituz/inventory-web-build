@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "newuu-439507",
+  "private_key_id": "259dc822020b383acbb9932a7cdf32a22adbbd98",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCmdgu0VviC0b4R\nCLCCohgKAjXBqj8qaKzLTAeW3vYndP5fDx2IFSVTrWAky401vc2WoTxsE4DZUH3G\nZlY8BxCfrozw+Ns5QG2a/d2b0RZiD5+0jIizB7sjm0ky9Bjal2yRTcuaIhGECUIO\n5nDL6Yf6k1wkTLR7GDwRbG5MFfBCT1JxRm3UU3+wVQ2bJ8/cNzeI8w0WSoK+/Hyw\nim6HZInmHNgKei00dNuWqwB47e11rURT36esTAQRyG1a/JopxpOaYwEzLPeE1J5d\naAP2w/h3QMbCGrFhf7IN3qeMuL4DyTkvvnKm7hHA+fpOkFLjmegdturZZcTq7/wK\nog4NmzmZAgMBAAECggEADYjoIzn2G2bz+h0XgwusgjXTSqOt3qQjtqUAMfl/kM4/\nt5l6SHwVrKPafyto2C+OZZrHF6+PSLw1edoM1XUqmh0+ewJ1CsbtEo7lQ7vgwsjr\n7qmFnO76Pacs8L5tvepViswFS8tM2sxI6X69uarLoml0csQk4aRjD/Sd1ERtZGq+\nfUR5akdNp3z6naZjyqQKPl+tPJfJYpyLIjt+UbIXKkRFV9e1QpA3NXkL4wR1MUua\n6UYnMQKvS6TcakWImOCzLPJBGHsYUt2/ULi3H9/yY9tcQ1yOadYMOsc8ilkNfT7a\npvYEvy5wA/KqC9tlt1Oz6NZfNDCEts7a9KC/KtrxzQKBgQDimw9L1XzTqaxQukE+\nSu2XLd3ScQJOBYuQvgxqpaNzMQ4mUH8aT+AQ4bNilZNvR/34JTIdFek+nT3Z1H1F\nQPSk9wenjQeelc6B1u6GufkUureuarv4/N3JdwrPDIvHjnmuz6jYrKHnfZzrw1lc\nzb6KeG9u4o51tAKCEvf9WV/6VQKBgQC8DcC57Qddc9asGx1KW1t6shDEmGHAwfKl\nN5sEgmJ3UClpdHZqNPer9qOyA6sxMTCBt9g9XX+2p50a+K6WKnEy0E2GOFOMaWrq\n1w/2P8eZGgxBCJpcwm9XiXAJYO6sSs07w7/1OPh0qRs3bQkUDWfQrbV/LhcBOlXS\nSspAMBzONQKBgQDhfSbFcVTbUpWTZyORFwJBU3TN+YIvnTj5+QNmBBkXgRLxcVxp\nFF6ErfLRAMJLE7pW+LxbUPheRB3N6rIU/cPze5V0VtPkLHHnpbaI/fordHle5/rQ\nkt8noHty+KsHEnFnUGBV68LYFZjWyfbccCdQpvNLxcm4uj1crf9zbUIiWQKBgDCE\nK9DMAjZuCFhmtmvUnglNn13ZIn8kioFtkyTarqSxnb2DOnm0KKHJA/qNT8FlO2p8\nD+HlGWn6XGH0/rXnRUUi0J1sMsHrAJaN3aReWBR7z+WHXqvHzgn7f1gsFeeFdOWS\nXxfZFuCiME9gZhMyUjJYXpbtQSoj7rhOa1ecEhJxAoGATtIV68d1Sg15K9G/D22e\nvWNaX9CL33mR7lL4vY1x5oQVHy1HOURdjQZ5nSekANF+wxjMJkF10LszKrAodIDp\nij8+fuujQyXbMJGoZ0wThLxgLa5UeeVq4v/fn/tXz/7W6poLNdWiQk29SUCSX9fz\nRFqDFSvufMt8RqgHqu8IShQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "inventory@newuu-439507.iam.gserviceaccount.com",
+  "client_id": "109406446048278989936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/inventory%40newuu-439507.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
